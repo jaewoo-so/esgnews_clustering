@@ -1,0 +1,14 @@
+mx500_data0 볼륨에 대한 폴더 경로의 목록입니다.
+볼륨 일련 번호는 46C1-F728입니다.
+D:.
+│  .gitignore
+│  LICENSE
+│  README.md
+│  tree.txt
+│  
+├─v01_tfidf
+│  │  01_basic_metric_kmean.ipynb
+│  │  
+│  └─data
+└─v02_bert_klue
+    └─data
