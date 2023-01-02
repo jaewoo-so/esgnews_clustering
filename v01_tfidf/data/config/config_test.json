@@ -1,0 +1,14 @@
+{
+	"EXP_NAME": "train_ver_3",
+	"data_start_id": 1,
+	"data_end_id": 3,
+	"data_start_date": "2020-12-30",
+	"data_end_date": "2021-01-21",
+	"data_start_index": 1,
+	"data_end_index": 5,
+	"pn": {"thresholds": 0.5},
+	"dataset": {
+		"random_sampler": true,
+		"existed": true,
+		"data_path": "C:\\Users\\D47\\PycharmProjects\\7_ESG_news_media\\project\\data\\data_from_2018-07-20_to_2021-01-21.pkl"}
+}
