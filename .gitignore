@@ -1,9 +1,11 @@
 # data
-
-*.plk
+*.h5
+*.pkl
 *.feather
 *.parquet
 *.pq
+*.index
+model_weights_real_v02.data-00000-of-00001
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
