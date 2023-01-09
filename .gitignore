@@ -1,4 +1,5 @@
 # data
+*.plk
 *.h5
 *.pkl
 *.feather
